@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "generate-rsa-keypair": "^0.1.2",
+    "js-base64": "^2.5.0",
+    "jsonwebtoken": "^8.4.0",
+    "morgan": "^1.9.1",
+    "node-uuid": "^1.4.8"
+  }
+}
